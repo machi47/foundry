@@ -1,0 +1,7 @@
+```solidity
+import "ds-test/...";
+import "@openzeppelin/...";
+import "forge-std/...";
+import "../../lib/ds-test/src/test.sol";
+import "../simplestorage.sol"; 
+```
